@@ -9,16 +9,18 @@ import FAQ from './components/Faq/Faq'
 import Jumpstart from './components/Jumpstart/Jumpstart';
 function App() {
   return (
-   <>
-   <Hero />
-   <About />
-   <Canva/>
-   <Trusted />
-   <Emilio />
-   <Feature />
-   <FAQ />
-   <Jumpstart />
-   </>
+    <>
+
+        <Hero />
+        <About />
+        <Canva />
+        <Trusted />
+        <Emilio />
+        <Feature />
+        <FAQ />
+        <Jumpstart />
+
+    </>
   );
 }
 
